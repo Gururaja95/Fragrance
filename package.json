@@ -1,9 +1,9 @@
 {
-  "name": "web",
+  "name": "public",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node index.js",
     "type": "module"
   },
   "engines": {
