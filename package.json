@@ -6,6 +6,9 @@
     "start": "node src/index.js",
     "type": "module"
   },
+  "engines": {
+    "node": ">=16.x"
+  },
   "author": "",
   "license": "ISC",
   "description": "",
